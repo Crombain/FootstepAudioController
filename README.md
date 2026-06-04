@@ -50,6 +50,7 @@ Footsteps are triggered based on **player velocity**, not fixed timers — creat
 - Unity **2021+**  
 - A **CharacterController**-based player controller  
 - A **Unity Terrain** with painted layers  
+- A package **Input System**
 
 ---
 
